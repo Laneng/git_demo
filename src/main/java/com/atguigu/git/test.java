@@ -12,5 +12,7 @@ public class test {
         System.out.println("master git");
         System.out.println("master git");
         System.out.println("pull test");
+        System.out.println("pull test");
+        System.out.println("pull test");
     }
 }
