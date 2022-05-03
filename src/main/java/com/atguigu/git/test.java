@@ -14,5 +14,7 @@ public class test {
         System.out.println("pull test");
         System.out.println("pull test");
         System.out.println("pull test");
+        System.out.println("gitHub项目更新了");
+        
     }
 }
